@@ -1,0 +1,16 @@
+# Ignore files.
+bootstrap.php
+init_db.php
+
+composer.phar
+/vendor/
+
+# Ignore Mac System files
+.DS_store
+.AppleDouble
+.LSOverride
+Icon
+
+#VS Code
+.vscode
+.vscode/
